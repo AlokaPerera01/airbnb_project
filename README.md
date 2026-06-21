@@ -8,12 +8,12 @@ This project analyzes the Bangkok short-term rental market using the Inside Airb
 Bangkok, Thailand 
 
 **Project Structure**
-- data/raw/bangkok/ — Original Inside Airbnb files (gitignored)
-- data/processed/ — Cleaned, analytics-ready datasets
-- notebooks/ — Exploratory analysis notebooks
-- src/ — Pipeline source code
-- reports/ — Final PDF report
--  outputs/figures/ — Generated charts and visualizations
+- data/raw/bangkok/ - Original Inside Airbnb files (gitignored)
+- data/processed/ - Cleaned, analytics-ready datasets
+- notebooks/ - Exploratory analysis notebooks
+- src/ - Pipeline source code
+- reports/ - Final PDF report
+-  outputs/figures/ - Generated charts and visualizations
 
 **Setup & Reproducibility**
 1. Clone this repository
@@ -22,7 +22,7 @@ Bangkok, Thailand
 4. Run pipeline: `python src/pipeline.py`
 
 **Status**
-In progress — see commit history for milestones.
+In progress - see commit history for milestones.
 
 
 
