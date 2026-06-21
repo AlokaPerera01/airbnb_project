@@ -21,12 +21,4 @@ Bangkok, Thailand
 3. Download Bangkok data from Inside Airbnb (https://insideairbnb.com/get-the-data/) into `data/raw/bangkok/`
 4. Run pipeline: `python src/pipeline.py`
 
-**Status**
-In progress - see commit history for milestones.
-
-
-
-AI Usage Disclosure
-
-This project was developed with AI assistance (Claude). Full disclosure in `reports/ai\_usage\_disclosure.md` and Appendix A of the final report.
 
