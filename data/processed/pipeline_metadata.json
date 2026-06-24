@@ -1,0 +1,17 @@
+[
+  {
+    "city": "bangkok",
+    "snapshot_date": "2025-09-27",
+    "run_timestamp": "2026-06-24T10:35:28.270424",
+    "duration_seconds": 0,
+    "files": {
+      "listings.csv.gz": "skipped",
+      "calendar.csv.gz": "skipped",
+      "reviews.csv.gz": "skipped",
+      "listings_summary.csv": "skipped",
+      "reviews_summary.csv": "skipped",
+      "neighbourhoods.csv": "skipped",
+      "neighbourhoods.geojson": "skipped"
+    }
+  }
+]
