@@ -1,0 +1,110 @@
+dataset,column,dtype,null_count,null_rate_%,n_unique,sample_value
+listings,id,int64,0,0.0,28806,27934
+listings,listing_url,str,0,0.0,28806,https://www.airbnb.com/rooms/27934
+listings,scrape_id,int64,0,0.0,1,20250926165947
+listings,last_scraped,str,0,0.0,3,2025-09-27
+listings,source,str,0,0.0,2,city scrape
+listings,name,str,0,0.0,26603,Nice room with superb city view
+listings,description,str,776,2.69,18539,"Our cool and comfortable one bedroom apartment in city center with amazing Bangkok view. It comfortably fits two to three persons and is located on a main street, just three blocks from shopping area and only 15 minutes walk to Bangkok downtown."
+listings,neighborhood_overview,str,19322,67.08,6109,It is very center of Bangkok and easy access to many interesting places and also other places that close to Bangkok.
+listings,picture_url,str,0,0.0,26411,https://a0.muscache.com/pictures/566374/23157b6e_original.jpg
+listings,host_id,int64,0,0.0,8874,120437
+listings,host_url,str,0,0.0,8874,https://www.airbnb.com/users/show/120437
+listings,host_name,str,9,0.03,6869,Nuttee
+listings,host_since,str,9,0.03,3756,2010-05-08
+listings,host_location,str,7394,25.67,421,"Bangkok, Thailand"
+listings,host_about,str,11990,41.62,3871,"Hi All, I am nuttee patranavik from Bangkok, Thailand.
+always travel but easy to connect via airbnb.."
+listings,host_response_time,str,5647,19.6,4,
+listings,host_response_rate,str,5647,19.6,54,
+listings,host_acceptance_rate,str,4279,14.85,100,67%
+listings,host_is_superhost,str,1610,5.59,2,f
+listings,host_thumbnail_url,str,9,0.03,8429,https://a0.muscache.com/im/pictures/user/d05a6b51-b459-4eb8-a01e-8c55122b0132.jpg?aki_policy=profile_small
+listings,host_picture_url,str,9,0.03,8429,https://a0.muscache.com/im/pictures/user/d05a6b51-b459-4eb8-a01e-8c55122b0132.jpg?aki_policy=profile_x_medium
+listings,host_neighbourhood,str,19436,67.47,139,Victory Monument
+listings,host_listings_count,float64,9,0.03,140,1.0
+listings,host_total_listings_count,float64,9,0.03,173,2.0
+listings,host_verifications,str,9,0.03,7,"['email', 'phone']"
+listings,host_has_profile_pic,str,9,0.03,2,t
+listings,host_identity_verified,str,9,0.03,2,t
+listings,neighbourhood,str,19322,67.08,607,"Samsen Nai, Bangkok, Thailand"
+listings,neighbourhood_cleansed,str,0,0.0,50,Ratchathewi
+listings,neighbourhood_group_cleansed,float64,28806,100.0,0,
+listings,latitude,float64,0,0.0,20113,13.75983
+listings,longitude,float64,0,0.0,20799,100.54134
+listings,property_type,str,0,0.0,80,Entire condo
+listings,room_type,str,0,0.0,4,Entire home/apt
+listings,accommodates,int64,0,0.0,16,2
+listings,bathrooms,float64,5589,19.4,31,1.5
+listings,bathrooms_text,str,122,0.42,63,1.5 baths
+listings,bedrooms,float64,1304,4.53,29,1.0
+listings,beds,float64,5582,19.38,32,1.0
+listings,amenities,str,0,0.0,22792,"[""Free parking on premises"", ""Dryer"", ""Hot water"", ""Gym"", ""Smoke alarm"", ""Host greets you"", ""Luggage dropoff allowed"", ""Essentials"", ""Kitchen"", ""Elevator"", ""Hair dryer"", ""Fire extinguisher"", ""Dishes and silverware"", ""Microwave"", ""Washer"", ""Refrigerator"", ""Wifi"", ""Hangers"", ""Stove"", ""Iron"", ""Long term stays allowed"", ""Air conditioning"", ""Pool"", ""Shampoo"", ""Patio or balcony""]"
+listings,price,str,5533,19.21,4489,"$1,595.00"
+listings,minimum_nights,int64,0,0.0,105,15
+listings,maximum_nights,int64,0,0.0,154,240
+listings,minimum_minimum_nights,float64,3,0.01,106,30.0
+listings,maximum_minimum_nights,float64,3,0.01,107,30.0
+listings,minimum_maximum_nights,float64,3,0.01,138,240.0
+listings,maximum_maximum_nights,float64,3,0.01,137,240.0
+listings,minimum_nights_avg_ntm,float64,0,0.0,392,30.0
+listings,maximum_nights_avg_ntm,float64,0,0.0,329,240.0
+listings,calendar_updated,float64,28806,100.0,0,
+listings,has_availability,str,2248,7.8,1,t
+listings,availability_30,int64,0,0.0,31,27
+listings,availability_60,int64,0,0.0,61,57
+listings,availability_90,int64,0,0.0,91,87
+listings,availability_365,int64,0,0.0,366,362
+listings,calendar_last_scraped,str,0,0.0,3,2025-09-27
+listings,number_of_reviews,int64,0,0.0,402,65
+listings,number_of_reviews_ltm,int64,0,0.0,139,0
+listings,number_of_reviews_l30d,int64,0,0.0,29,0
+listings,availability_eoy,int64,0,0.0,97,93
+listings,number_of_reviews_ly,int64,0,0.0,142,1
+listings,estimated_occupancy_l365d,int64,0,0.0,95,0
+listings,estimated_revenue_l365d,float64,5533,19.21,9273,0.0
+listings,first_review,str,10090,35.03,3396,2012-04-07
+listings,last_review,str,10090,35.03,1902,2024-09-17
+listings,review_scores_rating,float64,10090,35.03,147,4.86
+listings,review_scores_accuracy,float64,10090,35.03,139,4.95
+listings,review_scores_cleanliness,float64,10091,35.03,154,4.82
+listings,review_scores_checkin,float64,10093,35.04,140,4.97
+listings,review_scores_communication,float64,10091,35.03,138,4.91
+listings,review_scores_location,float64,10094,35.04,153,4.66
+listings,review_scores_value,float64,10096,35.05,146,4.75
+listings,license,float64,28806,100.0,0,
+listings,instant_bookable,str,0,0.0,2,f
+listings,calculated_host_listings_count,int64,0,0.0,90,1
+listings,calculated_host_listings_count_entire_homes,int64,0,0.0,82,1
+listings,calculated_host_listings_count_private_rooms,int64,0,0.0,43,0
+listings,calculated_host_listings_count_shared_rooms,int64,0,0.0,11,0
+listings,reviews_per_month,float64,10090,35.03,679,0.4
+calendar,listing_id,int64,0,0.0,28806,5675191
+calendar,date,str,0,0.0,367,2025-09-27
+calendar,available,str,0,0.0,2,f
+calendar,price,float64,10514202,100.0,0,
+calendar,adjusted_price,float64,10514202,100.0,0,
+calendar,minimum_nights,int64,0,0.0,114,4
+calendar,maximum_nights,int64,0,0.0,198,1125
+reviews_summary,listing_id,int64,0,0.0,18716,27934
+reviews_summary,date,str,0,0.0,4733,2012-04-07
+listings_summary,id,int64,0,0.0,28806,27934
+listings_summary,name,str,0,0.0,26604,Nice room with superb city view
+listings_summary,host_id,int64,0,0.0,8874,120437
+listings_summary,host_name,str,9,0.03,6869,Nuttee
+listings_summary,neighbourhood_group,float64,28806,100.0,0,
+listings_summary,neighbourhood,str,0,0.0,50,Ratchathewi
+listings_summary,latitude,float64,0,0.0,20113,13.75983
+listings_summary,longitude,float64,0,0.0,20799,100.54134
+listings_summary,room_type,str,0,0.0,4,Entire home/apt
+listings_summary,price,float64,5533,19.21,4489,1595.0
+listings_summary,minimum_nights,int64,0,0.0,105,15
+listings_summary,number_of_reviews,int64,0,0.0,402,65
+listings_summary,last_review,str,10090,35.03,1902,2024-09-17
+listings_summary,reviews_per_month,float64,10090,35.03,679,0.4
+listings_summary,calculated_host_listings_count,int64,0,0.0,90,1
+listings_summary,availability_365,int64,0,0.0,366,362
+listings_summary,number_of_reviews_ltm,int64,0,0.0,139,0
+listings_summary,license,float64,28806,100.0,0,
+neighbourhoods,neighbourhood_group,float64,50,100.0,0,
+neighbourhoods,neighbourhood,str,0,0.0,50,Bang Bon

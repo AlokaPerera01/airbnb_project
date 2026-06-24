@@ -21,3 +21,4 @@ Thumbs.db
 # Large outputs
 outputs/figures/*.png
 !outputs/figures/.gitkeep
+*.duckDB
