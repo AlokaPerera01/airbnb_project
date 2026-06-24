@@ -21,4 +21,5 @@ Bangkok, Thailand
 3. Download Bangkok data from Inside Airbnb (https://insideairbnb.com/get-the-data/) into `data/raw/bangkok/`
 4. Run pipeline: `python src/pipeline.py`
 
+Author - Aloka Perera
 
